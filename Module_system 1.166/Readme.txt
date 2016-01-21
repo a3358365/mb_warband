@@ -6,3 +6,6 @@ www.taleworlds.com/mb_module_system.html
 
 Git is a version control system.
 Git is free software.
+
+Git is a distributed version control system.
+Git is free software.
